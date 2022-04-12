@@ -17,7 +17,7 @@ module "demottime01" {
 
   change_management_parameters = {
     change_requested_by = "John Smith"
-    change_reason       = "Create a test account for demo purposes"
+    change_reason       = "Create a test account for demo purposes."
   }
 
   custom_fields = {
